@@ -22,6 +22,8 @@ th, td {
  font-family: Arial
 }
 
+tr:nth-child(odd) {background-color: #f2f2f2;}
+
 div {
   background-color: darkcyan;
   }
